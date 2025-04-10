@@ -113,7 +113,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 👤 Author
 
 - **del** - [@del0x3](https://github.com/del0x3)
-- Email: del@inlanefreight.local
 
 ## 🙏 Acknowledgments
 
